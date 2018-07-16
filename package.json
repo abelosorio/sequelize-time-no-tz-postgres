@@ -1,0 +1,30 @@
+{
+  "name": "sequelize-time-no-tz-postgres",
+  "version": "1.0.0",
+  "description": "Add support for TIME-NO-TZ data-type for PostgreSQL in Sequelize",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abelosorio/sequelize-time-no-tz-postgres.git"
+  },
+  "keywords": [
+    "PostgreSQL",
+    "Time without timezone",
+    "Time",
+    "Timezone",
+    "Sequelize"
+  ],
+  "author": "Abel M. Osorio <abel.m.osorio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abelosorio/sequelize-time-no-tz-postgres/issues"
+  },
+  "homepage": "https://github.com/abelosorio/sequelize-time-no-tz-postgres#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "util": "^0.11.0"
+  }
+}
